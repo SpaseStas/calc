@@ -40,6 +40,7 @@ let Calculate = 0;
 function data1() {
 	NeobxodimoeZnachenie = +requiredValue.value;
 	console.log("раз " + NeobxodimoeZnachenie);
+	calc();
 };
 
 function data2() {
